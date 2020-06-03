@@ -5,5 +5,14 @@ body{padding:0;margin:0;font-family:'PT Serif',serif}.navbar-brand{font-weight:7
 	}
 	.timeless{
 		font-size: 3rem;
+	.barber-chair-1{
+		margin:4%; 
+
+	}
+	.section-3 .btn{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 35%;
+	padding: 2% 2%;
 
 	}.main{color:#fff;text-shadow:2px 2px #000}.testimonial-text{font-size:1rem;text-align:center}.card{margin:3%;padding:0}.btn-seconadry{padding:2%}}
