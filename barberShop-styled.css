@@ -13,6 +13,7 @@ hr{border-color:#000;border-style:solid}.details{font-size:1rem}.heading-2{margi
 .section-4{background-color:#888;padding:2%}.footer-link{padding:2%;color:#1b262c}.footer-text{padding-bottom:2%}
 .copyright{padding:2%}.card{padding:3%}@media(max-width:400px){.card{margin:3%}}
 @media only screen and (max-width:700px){.site-content{text-align:center;background-image:url(images/main.jpg)}
-.main{color:#fff;text-shadow:2px 2px #000}.testimonial-text{font-size:1rem;text-align:center}.card{margin:3%;padding:0}
+.main{color:#fff;text-shadow:2px 2px #000}.testimonial-text{font-size:1rem;text-align:center}.card{margin:3%;padding:1%}
 .btn-seconadry{padding:2%}.fine{font-size:4rem}.grooming{font-size:5rem}.timeless{font-size:3rem}
-.barber-chair{height:100%;width:60%}.barber-chair-1{margin:6%}.section-3 .btn{margin-top:2%;margin-bottom:2%;width:50%;padding:2% 2%}}
+.barber-chair{height:100%;width:60%}.barber-chair-1{margin:6%;text-align:center}.section-3 
+.btn{margin-top:2%;margin-bottom:2%;width:50%;padding:2% 2%}}
